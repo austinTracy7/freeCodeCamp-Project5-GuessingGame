@@ -1,3 +1,2 @@
-# freeCodeCamp-Project5-GuessingGame
-
-This repository includes all of the files that were necessary for the project, but not necessarily anything in relation to the git history for the project. I did my best to patch the git history through commits in creating this although the repository wouldn't be pushed here.
+# General MVP Project
+This is a project I did in connection with freeCodeCamp's curriculum. It's an MVP project only (Minimal viable product, or not polished, but accomplishes what was stipulated by the requirements for the project).
